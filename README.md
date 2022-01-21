@@ -1,6 +1,7 @@
 # StudyPython
 빅데이터_파이썬_학습_리포지토리
 
+![Python](https://jacoblee.io/content/images/2021/08/4e105f96750899.5eb54f337fb8e-17.png)
 
 ### 1일차
 - 프로그래밍 이해
