@@ -35,3 +35,11 @@
 ### 5일차
 - cx_oracle 라이브러리 활용
 - Oracle CRUD 코딩
+
+### 6일차
+- Jupyter Notebook 사용법
+- Class(클래스)
+   - 객체 생성
+   - 멤버변수, 멤버함수
+   - 클래스 사용
+   - 매직매서드(__init__, __srt__ etc...)

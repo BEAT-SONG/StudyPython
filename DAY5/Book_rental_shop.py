@@ -1,8 +1,10 @@
 # bookrentalshop.py
 # divtbl, membertbl
 
-from __future__ import division
-import email
+# from __future__ import division
+# import email
+# 이상한거 생겼다..? 이거는 왜 생기는 거지?
+
 import cx_Oracle as ora
 
 def myconn(): # DB가 하나이므로 매개변수를 지정해주지 않아도 된다.
