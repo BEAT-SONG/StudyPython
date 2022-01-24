@@ -37,14 +37,14 @@ x3 = x2 + 100 # x2 + [[100,100,100], [100,100,100]]
 x2 + [[5,7,10]] 
 print(x3)
 
-# 1개의 픽셀에 0-255이 값이 들어가면 그레이드스케일(0은 검정, 255은 흼색)
-# 차트 그리는 전문적이 프롯 matplotlib
-import matplotlib.pyplot as mp
-x=[[0,255,100], [255,0,200]]
+# # 1개의 픽셀에 0-255이 값이 들어가면 그레이드스케일(0은 검정, 255은 흼색)
+# # 차트 그리는 전문적이 프롯 matplotlib
+# import matplotlib.pyplot as mp
+# x=[[0,255,100], [255,0,200]]
 
-x2 = np.array(x)
-x3= x2-300
-print(x3)
-plt.imshow(x,cmap='grey') # 오류..?
+# x2 = np.array(x)
+# x3= x2-300
+# print(x3)
+# plt.imshow(x,cmap='grey') 
 
 
